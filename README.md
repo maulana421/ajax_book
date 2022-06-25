@@ -11,7 +11,7 @@ Komponen atau Framework tambahan  untuk membangun book application sunflower ant
 
 Anda bisa mengakses aplikasi book application dengan mengeklik tautan dibawah ini :
 
-[Book application]([https://sunflower-hp.herokuapp.com/](https://buku-ajax.herokuapp.com/frontend/index.html))
+[Book application][https://buku-ajax.herokuapp.com/frontend/index.html]
 
 
 > [Author by MaulanaIbnu] 
